@@ -1,0 +1,18 @@
+{
+    "name": {
+        "en": "Empty Box"
+    },
+    "description_short": {
+        "en": "This app does nothing, it's just an empty box."
+    },
+    "visibility": "always",
+    "categories": [
+    ],
+    "publication_date": "2016-05-25",
+    "publisher_name": "Djailla",
+    "publisher_contact": "bastien.vallet@gmail.com",
+    "supported_languages": [
+        "en"
+    ],
+    "website_url": "https://github.com/Djailla/nas-os-empty/"
+}
