@@ -1,12 +1,9 @@
 {
-    "type": "application",
     "id": "com.djailla.empty",
     "version": "1.0",
     "depends": [
         "org.debian.wheezy-lamp-1.2"
     ],
-    "startup_mode": "auto",
-    "display_mode": "tab",
     "network_ports": {
         "WEB_UI": 7575
     }
